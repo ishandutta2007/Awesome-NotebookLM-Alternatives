@@ -21,26 +21,27 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## SaaS Products
 
-### Core Platforms (NotebookLM Alternatives)
+### Comparison Table
 
-- **[NotebookLM](https://notebooklm.google/)**  
-  Google’s pioneering AI notebook that generates audio overviews, answers questions from uploaded sources, and creates study guides with grounded responses.
-
-- **[Paperguide](https://paperguide.ai/)**  
-  AI research assistant focused on academic papers, document interaction, and intelligent summarization.
-
-- **[Elephas](https://elephas.app/)**  
-  Powerful AI writing and research companion with deep note integration across Apple devices and cloud sync.
-
-- **[Prezent.ai](https://prezent.ai/)**  
-  AI-powered platform for creating presentations and notes from documents with strong narrative capabilities.
-
-- **[OpenNotebook / SurfSense](https://open-notebook.ai/)**  
-  Modern AI notebook with real-time collaboration, source-grounded chat, and knowledge synthesis.
+| Product | Description | Pricing | Free Tier / Limits |
+| :--- | :--- | :--- | :--- |
+| [**NotebookLM**](https://notebooklm.google/) | Google’s pioneering AI notebook for audio overviews and grounded research. | Free / $7.99+ per month | 100 notebooks, 50 sources/notebook, 50 daily chats |
+| [**Paperguide**](https://paperguide.ai/) | AI research assistant focused on academic papers and document interaction. | Free / $19 per month | 1,000 AI credits, 20 searches, 500MB storage |
+| [**Elephas**](https://elephas.app/) | AI writing and research companion with deep integration for Apple devices. | Free / $9.99+ per month | 20 credits per month |
+| [**Humata.ai**](https://www.humata.ai/) | AI platform for analyzing technical and legal documents with precise answers. | Free / $1.99+ per month | 60 pages/month, 10 answers |
+| [**ChatDOC**](https://chatdoc.com/) | AI assistant that can understand complex tables and formulas in documents. | Free / $8.99 per month | 2 files/day, 20 pages/file, 20 questions/day |
+| [**ChatPDF**](https://www.chatpdf.com/) | Simple tool to chat with any PDF document. | Free / $19.99 per month | 2 PDFs/day, 120 pages/PDF, 50 questions/day |
+| [**Mem.ai**](https://mem.ai/) | AI-powered workspace that organizes your notes automatically. | Free / $12 per month | 25 notes and 25 chat messages per month |
+| [**Reflect**](https://reflect.app/) | Minimalist, networked note-taking app with built-in AI. | $15 per month | 14-day free trial |
+| [**Notion AI**](https://www.notion.so/product/ai) | Integrated AI for writing, summarizing, and organizing within Notion. | $10/mo (Add-on) | Varies by Notion plan |
+| [**Coral by Cohere**](https://cohere.com/coral) | Enterprise-grade knowledge assistant for business data and private deployments. | Free (OSS) / $249+ mo | Open-source for self-hosting |
+| [**Prezent.ai**](https://prezent.ai/) | AI-powered platform for creating presentations and notes from documents. | $399+ per month | No free tier (Enterprise focused) |
+| [**OpenNotebook**](https://open-notebook.ai/) | Modern AI notebook with real-time collaboration and knowledge synthesis. | Free (Open Source) | Self-hosted or PAYG for cloud |
+| [**SurfSense**](https://open-notebook.ai/) | Personal AI for browsing, bookmarks, and knowledge management. | Free / $20 per month | 500 pages + $5 credits for cloud |
 
 ### Advanced & Specialized Platforms
 
-**Other notable mentions**: Mem.ai, Reflect, Notion AI, and various Obsidian + AI plugin setups.
+**Other notable mentions**: Various Obsidian + AI plugin setups, and specialized enterprise RAG solutions.
 
 ## Open-Source GitHub Projects
 
