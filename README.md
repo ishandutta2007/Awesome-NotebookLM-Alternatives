@@ -99,6 +99,19 @@ Star the repo if you find it useful!
 - Always verify data privacy practices, especially when uploading sensitive documents.
 - AI-generated summaries and audio overviews should be reviewed for accuracy.
 
+## 📈 Star History
+
+<div align="center">
+	<a href="https://www.star-history.com/?repos=ishandutta2007%2FAwesome-NotebookLM-Alternatives&type=date&legend=bottom-right">
+	 <picture>
+	   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-NotebookLM-Alternatives&type=date&theme=dark&legend=bottom-right" />
+	   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-NotebookLM-Alternatives&type=date&legend=bottom-right" />
+	   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-NotebookLM-Alternatives&type=date&legend=bottom-right" />
+	 </picture>
+	</a>
+</div>
+
+
 ---
 
 **Made for researchers, students, knowledge workers, and productivity enthusiasts.**  
