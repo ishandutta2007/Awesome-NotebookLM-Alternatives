@@ -50,13 +50,14 @@ Whether you're a student looking for study aids, a researcher analyzing thousand
 | [**Prezent.ai**](https://prezent.ai/) | AI-powered platform for creating presentations and notes from documents. | $399+ per month | No free tier (Enterprise focused) | **$400M Valuation** |
 | [**Elephas**](https://elephas.app/) | AI writing and research companion with deep integration for Apple devices. | Free / $9.99+ per month | 20 credits per month | **$45M Valuation** |
 | [**Humata.ai**](https://www.humata.ai/) | AI platform for analyzing technical and legal documents with precise answers. | Free / $1.99+ per month | 60 pages/month, 10 answers | **$17.7M (Seed)** |
-| [**Remio**](https://remio.ai/) | Local-first AI memory for searching personal files, webpages, recordings, emails, messages, and images | Free/$11.6 per month | 500 AI credits/mo | **$2.5M (est.)** |
+| [**Remio**](https://remio.ai/) | Local-first AI memory for searching files, webpages, recordings, emails, messages and images | Free / $11.6+ per month | 500 AI credits/mo | **$2.5M (est.)** |
 | [**ChatDOC**](https://chatdoc.com/) | AI assistant that can understand complex tables and formulas in documents. | Free / $8.99 per month | 2 files/day, 20 pages/file, 20 questions/day | **$1.3M Revenue** |
 | [**ChatPDF**](https://www.chatpdf.com/) | Simple tool to chat with any PDF document. | Free / $19.99 per month | 2 PDFs/day, 120 pages/PDF, 50 questions/day | **$1.3M Revenue** |
 | [**Reflect**](https://reflect.app/) | Minimalist, networked note-taking app with built-in AI. | $15 per month | 14-day free trial | **$1M - $3M (est.)** |
 | [**Paperguide**](https://paperguide.ai/) | AI research assistant focused on academic papers and document interaction. | Free / $19 per month | 1,000 AI credits, 20 searches, 500MB storage | **Bootstrapped** |
 | [**OpenNotebook**](https://open-notebook.ai/) | Modern AI notebook with real-time collaboration and knowledge synthesis. | Free (Open Source) | Self-hosted or PAYG for cloud | **Early Stage** |
 | [**SurfSense**](https://open-notebook.ai/) | Personal AI for browsing, bookmarks, and knowledge management. | Free / $20 per month | 500 pages + $5 credits for cloud | **Early Stage** |
+
 
 ### 🔍 Advanced & Specialized Platforms
 
