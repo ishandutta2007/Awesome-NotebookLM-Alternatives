@@ -1,7 +1,7 @@
 # 🧠 Awesome-NotebookLM-Alternatives 🚀
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andymaltsev/be-awesome-at-anything/master/img/be-awesome.png" width="800" alt="Awesome NotebookLM Alternatives Banner">
+  <img src="assets/banner.svg" width="800" alt="Awesome NotebookLM Alternatives Banner">
 
   <p align="center">
     <b>A curated collection of the best AI-powered research assistants, document-grounded notebooks, and open-source RAG platforms.</b>
