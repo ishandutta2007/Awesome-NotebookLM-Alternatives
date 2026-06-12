@@ -51,7 +51,7 @@ Whether you're a student looking for study aids, a researcher analyzing thousand
 | [**ChatPDF**](https://www.chatpdf.com/) | Simple tool to chat with any PDF document. | Free / $19.99 per month | 2 PDFs/day, 120 pages/PDF, 50 questions/day |
 | [**Mem.ai**](https://mem.ai/) | AI-powered workspace that organizes your notes automatically. | Free / $12 per month | 25 notes and 25 chat messages per month |
 | [**Reflect**](https://reflect.app/) | Minimalist, networked note-taking app with built-in AI. | $15 per month | 14-day free trial |
-| [**Remio**](https://remio.ai/) | Local-first AI memory and knowledge base desktop app for searching personal files, webpages, recordings, emails, messages, and images with local indexes and vector retrieval. | Free/$11.6 per month | 500 AI credits/mo |
+| [**Remio**](https://remio.ai/) | Local-first AI memory for searching personal files, webpages, recordings, emails, messages, and images | Free/$11.6 per month | 500 AI credits/mo |
 | [**Notion AI**](https://www.notion.so/product/ai) | Integrated AI for writing, summarizing, and organizing within Notion. | $10/mo (Add-on) | Varies by Notion plan |
 | [**Coral by Cohere**](https://cohere.com/coral) | Enterprise-grade knowledge assistant for business data and private deployments. | Free (OSS) / $249+ mo | Open-source for self-hosting |
 | [**Prezent.ai**](https://prezent.ai/) | AI-powered platform for creating presentations and notes from documents. | $399+ per month | No free tier (Enterprise focused) |
