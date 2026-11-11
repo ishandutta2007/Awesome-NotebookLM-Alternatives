@@ -78,6 +78,9 @@ Whether you're a student looking for study aids, a researcher analyzing thousand
 - **[Anytype](https://github.com/anytypeio/anytype)**  
   Local-first, privacy-focused knowledge base with powerful AI integrations and object-based note organization. 🔐
 
+- **[Knovum](https://github.com/madebyzan/knovum)**  
+  Local-first AI knowledge workspace on an infinite canvas. Notes, web pages, recordings and documents become cited answers and finished work, with on-device AI. Free and open source (MIT). 🧠
+
 - **[Logseq](https://github.com/logseq/logseq)**  
   Open-source outliner and knowledge base with strong plugin ecosystem for AI summarization. 📓
 
